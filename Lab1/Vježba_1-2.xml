@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student>
+    <OsnovniPodaci>
+        <Ime>Jakša</Ime>
+        <Prezime>Mencl</Prezime>
+        <JMBG>02468101214</JMBG>
+        <DatumRodenja>2005-03-16</DatumRodenja>
+        <GodinaStudija>2</GodinaStudija>
+    </OsnovniPodaci>
+
+    <KontaktPodaci>
+        <Email>jmencl@tvz.hr</Email>
+        <Telefon>091 234 5678</Telefon>
+    </KontaktPodaci>
+
+</Student>
+
+
+<!-- ZADATAK
+•
+Napišite XML za opis jednog studenta koji sadrži sljede
+ć
+e podatke:
+•
+Student treba imati i podatke o kontaktu:
+E-mail
+Telefon
+•
+Tako
+đ
+er, student mora sadržavati popis od tri kolegija. Za svaki kolegij unesite:
+Naziv kolegija
+Ime profesora
+Broj ECTS bodova -->
